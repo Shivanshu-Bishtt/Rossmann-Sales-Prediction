@@ -54,21 +54,8 @@ Stores sell less on weekends.
 
 # 4. Machine Learning Model Applied
 
-At this stage, 5 models were used for analysis: *Average - Baseline *Linear Regression *Lasso Regression *Random Forest Regressor *XGBoost Regressor
+At this stage, 3 models were used for analysis: *Average - Baseline *Linear Regression *Lasso Regression *Random Forest Regressor
 
-# 5. Machine Learning Modelo Performance
-
-![Capture](https://user-images.githubusercontent.com/82259772/130566762-9030bd79-0857-4ccd-a3e2-e4a24a0f87a9.PNG)
-
-# 6. Business Results
-
-Below is the six-week forecast.
-
-> Scenario	Values
-> * predictions	R$277,437,632.00
-> * worst_scenario	R$276,572,719.87
-> * best_scenario	R$278,302,519.21
-
-# 7. Conclusions
+# Conclusions
 
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
